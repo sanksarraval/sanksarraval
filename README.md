@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanksarraval
 - 👀 I’m interested in Data Science and Visual Analytics.
-- 🌱 I’m currently persuing my undergraduate degree in Computer Science (Honours) at University of Manitoba.
+- 🌱 I’m currently perusing my undergraduate degree in Computer Science (Honours) at University of Manitoba.
 - 📫 How to reach me email: sanskarraval123@gmail.com
 
 <!---
