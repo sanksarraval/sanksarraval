@@ -1,7 +1,7 @@
 <!---
 sanksarraval/sanksarraval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 <h1> Sanskar Raval</h1>
 <br />          
 
@@ -53,6 +53,41 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/sanksarraval#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sanksarraval&theme=vue#gh-light-mode-only" alt="sanksarraval" /></a></p>
 <br/>
 --->
+# Hi there! I'm Sanskar 👋
+
+Welcome to my GitHub profile! I'm a passionate software developer and data enthusiast, currently diving deep into projects that bridge technology with problem-solving across web development, data science, and automation. My journey in software development has allowed me to explore a variety of programming languages and frameworks, giving me a solid foundation to tackle diverse projects with creativity and precision.
+
+---
+
+### 🚀 About Me
+
+- 🖥️ **Background**: I’m currently studying software development, with hands-on experience from both academic projects and professional internships.
+- 📚 **Skillset**:
+  - **Languages**: C#, Java, Python, JavaScript
+  - **Frameworks & Tools**: .NET Core MVC, MSSQL, Flutter, Vue.js
+  - **Data Analysis**: Proficient in data cleaning, Frequent Itemset Mining, and automation
+  - **Version Control**: Git & GitHub/GitLab
+  - **Testing & Development**: Experienced in unit/integration testing, UI/UX design, and object-oriented programming (OOP)
+- 🌱 **Currently Working On**: Building a **Bookstore Web Application** with C#, .NET Core MVC, and MSSQL, with features like inventory management and role-based access control.
+- 💡 **Exploring**: DevOps, data science applications in FinTech, and scalable web solutions.
+  
+---
+
+### 💼 Professional Experience
+
+- **Research Assistant** at the University of Manitoba – Optimized data-cleaning automation and worked on data mining algorithms, including qEclat and MQA-M.
+- **Cashier and Customer Service Representative** at Walmart Canada – Refined communication and problem-solving skills, with experience in client service.
+
+---
+
+### 📫 Let's Connect!
+
+- **LinkedIn**: [Sanskar's LinkedIn](https://www.linkedin.com/in/sanskar-raval/)
+- **Email**: [sanskarraval123@gmail.com](mailto:ravals1@myumanitoba.ca)
+
+Thanks for visiting! I’m always open to collaborations, learning opportunities, and meaningful discussions about tech and innovation.
+
+
 
 
 
