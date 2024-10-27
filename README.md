@@ -52,6 +52,11 @@ You can click the Preview link to take a look at your changes.
 <p><a href="https://github.com/sanksarraval#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sanksarraval&theme=nightowl#gh-dark-mode-only" alt="sanksarraval" /></a>
 <a href="https://github.com/sanksarraval#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sanksarraval&theme=vue#gh-light-mode-only" alt="sanksarraval" /></a></p>
 <br/>
+
+<h2>Connect With Me</h2> 
+<p align="left">
+<a href="https://www.linkedin.com/in/sanskar-raval/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+</p>
 --->
 # Hi there! I'm Sanskar 👋
 
@@ -72,6 +77,12 @@ Welcome to my GitHub profile! I'm a passionate software developer and data enthu
 - 💡 **Exploring**: DevOps, data science applications in FinTech, and scalable web solutions.
   
 ---
+
+## 🔥 Github Stats
+
+  <!--<a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=sanksarraval&theme=radical&title_color=ff3068?"></a>-->
+  <a href="https://github.com/sanksarraval"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=sanksarraval&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+
 
 ### 💼 Professional Experience
 
@@ -94,7 +105,4 @@ Thanks for visiting! I’m always open to collaborations, learning opportunities
 
                     
 
-<h2>Connect With Me</h2> 
-<p align="left">
-<a href="https://www.linkedin.com/in/sanskar-raval/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-</p>
+
