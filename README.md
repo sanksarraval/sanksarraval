@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/sanskar-raval/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
 --->
-# Hi there! I'm Sanskar 👋
+<!-- # Hi there! I'm Sanskar 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer and data enthusiast, currently diving deep into projects that bridge technology with problem-solving across web development, data science, and automation. My journey in software development has allowed me to explore a variety of programming languages and frameworks, giving me a solid foundation to tackle diverse projects with creativity and precision.
 
@@ -84,7 +84,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and data enthu
   <!---<a href="https://github.com/sanksarraval"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=sanksarraval&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>-->
 
 
-### 💼 Professional Experience
+<!-- ### 💼 Professional Experience
 
 - **Research Assistant** at the University of Manitoba – Optimized data-cleaning automation and worked on data mining algorithms, including qEclat and MQA-M.
 - **Cashier and Customer Service Representative** at Walmart Canada – Refined communication and problem-solving skills, with experience in client service.
@@ -97,6 +97,44 @@ Welcome to my GitHub profile! I'm a passionate software developer and data enthu
 - **Email**: [sanskarraval123@gmail.com](mailto:ravals1@myumanitoba.ca)
 
 Thanks for visiting! I’m always open to collaborations, learning opportunities, and meaningful discussions about tech and innovation.
+-->
+# Hi there! I'm Sanskar 👋  
+
+Welcome to my GitHub profile! I'm a passionate **Full Stack Software Developer** with a strong interest in **web development, data science, and automation**. I enjoy building scalable solutions that bridge technology with real-world problem-solving.  
+
+## 🚀 About Me  
+🖥️ **Background:**  
+ **Bachelor of Computer Science (Co-op)** graduate from the University of Manitoba, with hands-on experience from academic projects and industry internships.  
+
+📚 **Skillset:**  
+- **Languages:** C#, Java, Python, JavaScript, SQL  
+- **Frameworks & Tools:** .NET Core MVC, MSSQL, Flutter, Vue.js  
+- **Development & Testing:** Unit/integration testing, UI/UX design, object-oriented programming (OOP)  
+- **Version Control:** Git, GitHub, GitLab  
+- **Data & Automation:** Frequent Itemset Mining, data cleaning, workflow automation  
+
+💡 **Exploring:**  
+- AWS 
+- DevOps, scalable cloud solutions, and data-driven applications in FinTech.  
+
+## 💼 Professional Experience  
+🔹 **Full Stack Developer | Johnston Group (2025 - Present)**  
+- Refactored legacy code into a modular service repository structure, enhancing maintainability and scalability.  
+- Strengthened system security by mitigating SQL injection vulnerabilities and improving test coverage with Selenium and WireMock.  
+
+🔹 **Junior Web & Application Developer | Government of Manitoba (2023 - 2024)**  
+- Developed a **scalable .NET client-server web application** for the Department of Justice, saving **30% in resources**.  
+- Designed **data audit and reporting solutions** using SSRS, improving transparency and efficiency by **40%**.  
+- Built **accessible UI components** for public-facing forms, ensuring **WCAG 2.1 compliance**.  
+
+🔹 **Research Assistant | University of Manitoba (2022)**  
+- Optimized **data-cleaning automation** and enhanced **Frequent Itemset Mining (FIM) algorithms**, including **qEclat** and **MQA-M**.  
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SanskarRaval-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanskar-raval/)  
+📩 **Email:** sanskarraval123@gmail.com  
+
+Thanks for visiting! Feel free to explore my repositories, collaborate on projects, or reach out for discussions on tech and innovation. 🚀  
 
 
 
