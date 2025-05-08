@@ -132,7 +132,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Software Developer**
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SanskarRaval-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanskar-raval/)  
-📩 **Email:** sanskarraval123@gmail.com  
+📩 **Email:** sanskarcanada123@gmail.com  
 
 Thanks for visiting! Feel free to explore my repositories, collaborate on projects, or reach out for discussions on tech and innovation. 🚀  
 
